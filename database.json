@@ -1,0 +1,42 @@
+{
+  "01" : {
+    "03-01-2021" : "present",
+    "name" : "Student1",
+    "roll_no" : 1
+  },
+  "02" : {
+    "03-01-2021" : "absent",
+    "name" : "Student2",
+    "roll_no" : 2
+  },
+  "03" : {
+    "03-01-2021" : "present",
+    "name" : "Student3",
+    "roll_no" : 3
+  },
+  "04" : {
+    "03-01-2021" : "present",
+    "name" : "Student4",
+    "roll_no" : 4
+  },
+  "05" : {
+    "03-01-2021" : "present",
+    "name" : "Student5",
+    "roll_no" : 5
+  },
+  "06" : {
+    "03-01-2021" : "absent",
+    "name" : "Student6",
+    "roll_no" : 6
+  },
+  "07" : {
+    "03-01-2021" : "absent",
+    "name" : "Student7",
+    "roll_no" : 7
+  },
+  "08" : {
+    "03-01-2021" : "absent",
+    "name" : "Student8",
+    "roll_no" : 8
+  }
+}
